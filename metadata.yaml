@@ -1,0 +1,50 @@
+_repo: The-Lost-Continent_285
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hyne, Charles John Cutcliffe Wright
+    aliases:
+    - Cutcliffe-Hyne, Charles John
+    - Cutcliffe-Hyne, C. J.
+    - Hyne, C. J. Cutcliffe (Charles John Cutcliffe)
+    - Hyne, Cutcliffe
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '4423'
+    url: http://www.gutenberg.org/2009/agents/4423
+description: "The Lost Continent: The Story of Atlantis is a fantasy novel by C. J.\
+  \ Cutcliffe Hyne. It is considered one of the classic fictional retellings of the\
+  \ story of the drowning of Atlantis, combining elements of the myth told by Plato\
+  \ with the earlier Greek myth concerning the survival of a universal flood and restoration\
+  \ of the human race by Deucalion.\nThe novel was published first in serial form\
+  \ in Pearson's Magazine in the issues for July–December 1899, and in hardcover book\
+  \ form by Hutchinson (London) and Harpers (New York) in 1900. There have been several\
+  \ editions since. Its importance in the history of fantasy literature was recognized\
+  \ by its reissuing by Ballantine Books as the forty-second volume of the celebrated\
+  \ Ballantine Adult Fantasy series during February 1972. Subsequent editions were\
+  \ issued by Oswald Train in 1974 and by Bison Books in 2002. The Ballantine edition\
+  \ includes an introduction by Lin Carter, and the Bison edition one by Harry Turtledove.\
+  \ The novel was also reprinted (somewhat abridged) in the magazine Famous Fantastic\
+  \ Mysteries (Dec. 1944), and in the anthology Science Fiction by the Rivals of H.\
+  \ G. Wells by Castle Books in 1979.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '285'
+  wikidata: Q7748596
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Atlantis (Legendary place) -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Lost continents -- Fiction'
+- GITenberg
+title: The Lost Continent
+url: http://www.gutenberg.org/ebooks/285
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Lost_Continent:_The_Story_of_Atlantis
