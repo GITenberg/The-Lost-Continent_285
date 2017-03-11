@@ -1,5 +1,8 @@
 _repo: The-Lost-Continent_285
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hyne, Charles John Cutcliffe Wright
@@ -27,6 +30,8 @@ description: "The Lost Continent: The Story of Atlantis is a fantasy novel by C.
   \ The novel was also reprinted (somewhat abridged) in the magazine Famous Fantastic\
   \ Mysteries (Dec. 1944), and in the anthology Science Fiction by the Rivals of H.\
   \ G. Wells by Castle Books in 1979.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/285#The-Lost-Continent
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-07-09'
 gutenberg_type: Text
